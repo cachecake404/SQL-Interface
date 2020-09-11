@@ -1,4 +1,0 @@
-Setup Xamp(Any tool that runs SQL service) and then make a database called quo_python with it being on localhost. 
-
-Also set username as user and password as  '' (Nothing Basically)
-Then run the program Quotes_Managment_System.py
